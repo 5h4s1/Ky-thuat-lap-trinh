@@ -1,0 +1,4 @@
+http://testphp.vulnweb.com/listproducts.php?cat=1
+http://testphp.vulnweb.com/product.php?pic=1
+http://testphp.vulnweb.com/showimage.php?file=1
+http://testphp.vulnweb.com/artists.php?artists=1
